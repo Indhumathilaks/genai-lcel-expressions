@@ -5,6 +5,8 @@ To design and implement a LangChain Expression Language (LCEL) expression that u
 
 ### PROBLEM STATEMENT:
 
+Develop an LCEL-based application to process expressions with dynamic parameters, leveraging a prompt template for structured interaction, a language model to process the input, and an output parser for extracting meaningful results.
+
 ### DESIGN STEPS:
 
 #### STEP 1:
